@@ -70,3 +70,5 @@ lagi = ''
 ```
 ### Tampilan Program
 ![Gambar1](ss/ss2.png)
+### Flowchart
+![Gambar1](ss/ss3.jpg)
